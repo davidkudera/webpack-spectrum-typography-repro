@@ -1,0 +1,5 @@
+@import '~@spectrum-web-components/styles/typography.css';
+
+body {
+	background-color: #e0251b;
+}
