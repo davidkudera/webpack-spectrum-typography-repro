@@ -4,7 +4,7 @@
 	"version": "0.0.1",
 	"license": "MIT",
 	"dependencies": {
-		"@spectrum-web-components/styles": "^0.9.8"
+		"@spectrum-web-components/styles": "alpha"
 	},
 	"devDependencies": {
 		"css-loader": "^5.2.6",
